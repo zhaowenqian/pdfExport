@@ -1,0 +1,36 @@
+
+{"SubmissionNumInfo":[
+   
+              {"name":"Academic Year:",    "info":2016},
+              {"name":"Semester:",  "info":2},
+              {"name":"Assignment No.:",   "info":1},
+              {"name":"Date",  "info":20170608}
+    
+                  ]  ,
+ "SubmissionStringInfo":[
+              {"name":"Chinese Words:",  "info":"是的"}, 
+              {"name":"Course Code:",  "info":"TEST-1234"},
+              {"name":"Student Name:",  "info":"趙文騫"},
+
+    
+              {"name":"Teacher:",   "info":"Professor Chris WONG"},
+              {"name":"Student ID:",   "info":"s12345678"},
+              {"name":"Case ID:",   "info":"123456-123546"},
+              {"name":"Similarity:",   "info":"36/51=70.59%"},
+              {"name":"Report Link:",   "info":""},
+              {"name":"Annotation",   "info":"number of submission is flexible now!!!"}
+                  ]  ,
+
+  "Comparisions":[
+                { "SourceType":"input", "Source":"input", "VeriguideRemarks":"input",  "Paragragh":["p1","p2","p3sfsdbgtertersfdfgt4readscsvdbgrhtyerdsvdbghrtyrtefasdcvgnyhtredscvbghtyredscvbnhytredcvbghtrfdcvbghtgregrtwfsdvbfdhrgterfvbegt"],  "SourceParagragh":["sp1","sp2","sp3efgtrdfgtredfredftredfgtredvgtredcvrgtredcvgtrdfgwrqedafevgqrq3452fqewqfcewqrdqwerfd3qd3q3423rsdsdbfgfcvbgrtweradsdvdbgnthgwefdsgrdfbdgdcbfbngfghjnbvfghjnfghjbgvfyhjhgyujkngvyhjnbvghjnmbjnkmvghnhuhjnbjhsfgty5vbergfvbgfbvexfbrg3fwcsdfrbgfwvsdcvfgntrbvdvfgmntbrfdgnbrfgfnh5gbrvdvfgntbrfbterfdgntb4rvdfgfrtbrvdfgrntbgrv dsfdtbrve dsvg tbrve fgrtbevw dfgtnbvr efdrbve fgtnb4gve dfg tnbve fgtnbre fdgntbr dfdbve dfgfnbgve dc"]      },
+                { "SourceType":"input", "Source":"中文繁體輸入", "VeriguideRemarks":"中文简体输入",  "Paragragh":["中文简体段落","p2","p3","p4"],  "SourceParagragh":["中文繁體段落","sp2","sp3","sp4"]      },
+                { "SourceType":"input", "Source":"input", "VeriguideRemarks":"input",  "Paragragh":["p1","p2","p3sfsdbgtertersfdfgt4readscsvdbgrhtyerdsvdbghrtyrtefasdcvgnyhtr edscvbghtyredscvbnhytredcvbghtrfdcvbghtgregrtwfsdvbfdhrgterfvb egt"],  "SourceParagragh":["sp1","sp2","sp3sfsdbgtertersfdfgt4readscsvdbgrhtyerdsvdbghrtyrtefasdcvgnyhtredscvbghtyredscvbnhytredcvbghtrfdcvbghtgregrtwfsdvbfdhrgterfvbegtghbvfggjhbn bvcxfcghbn cfghbn cfgvbn vcfgvhbn cfcghbn vcgvhbn cgvbn vgvhbhjnkbh vb  vb "]      }
+
+           ],
+   "reviewer":"Professor Chris Wong",
+   "confirmer":"Professor May Cheung",
+   "endorsor":"Professor 陈大文"
+   
+   
+
+}

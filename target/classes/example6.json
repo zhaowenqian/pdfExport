@@ -1,0 +1,31 @@
+{"SubmissionNumInfo":[
+   
+              {"name":"Academic Year:",    "info":2016},
+              {"name":"Semester:",  "info":3},
+              {"name":"Assignment No.:",   "info":1}
+    
+                  ]  ,
+ "SubmissionStringInfo":[
+ 
+              {"name":"Course Code:",  "info":"TEST-1234"},
+    
+              {"name":"Teacher:",   "info":"Professor Chris WONG"},
+              {"name":"Student ID:",   "info":"s12345678"},
+              {"name":"Case ID:",   "info":"123456-123546"},
+              {"name":"Similarity:",   "info":"36/51=70.59%"},
+              {"name":"Report Link:",   "info":""}
+                  ]  ,
+
+  "Comparisions":[
+                { "SourceType":"input", "Source":"input", "VeriguideRemarks":"input",  "Paragragh":["p1","p2","p3"],  "SourceParagragh":["sp1","sp2","sp3"]      },
+                { "SourceType":"input", "Source":"input", "VeriguideRemarks":"input",  "Paragragh":["p1","p2","p3","p4"],  "SourceParagragh":["sp1","sp2","sp3","sp4"]      },
+                { "SourceType":"input", "Source":"input", "VeriguideRemarks":"input",  "Paragragh":["p1","p2","p3"],  "SourceParagragh":["sp1","sp2","sp3 "]      }
+
+           ],
+   "reviewer":"Professor Chris Wong",
+   "confirmer":"Professor May Cheung",
+   "endorsor":"Professor Albert Yip"
+   
+   
+
+}

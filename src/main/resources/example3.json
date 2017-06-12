@@ -1,0 +1,36 @@
+
+{"SubmissionNumInfo":[
+   
+              {"name":"Academic Year:",    "info":2016},
+              {"name":"Semester:",  "info":2},
+              {"name":"Assignment No.:",   "info":1},
+              {"name":"Date",  "info":20170608}
+    
+                  ]  ,
+ "SubmissionStringInfo":[
+              {"name":"Chinese Words:",  "info":"是的"}, 
+              {"name":"Course Code:",  "info":"TEST-1234"},
+              {"name":"Student Name:",  "info":"趙文騫"},
+
+    
+              {"name":"Teacher:",   "info":"Professor Chris WONG"},
+              {"name":"Student ID:",   "info":"s12345678"},
+              {"name":"Case ID:",   "info":"123456-123546"},
+              {"name":"Similarity:",   "info":"36/51=70.59%"},
+              {"name":"Report Link:",   "info":""},
+              {"name":"Annotation",   "info":"number of submission is flexible now!!!"}
+                  ]  ,
+
+  "Comparisions":[
+                { "SourceType":"input", "Source":"input", "VeriguideRemarks":"input",  "Paragragh":["p1","p2","p3"],  "SourceParagragh":["sp1","sp2","sp3William Will Thacker owns an independent book store, The Travel Book Co. in Notting Hill. He is divorced and shares his house with an eccentric, care-free Welshman named Spike and has a small, tight knit group of friends that includes his sister, Honey Will encounters Hollywood superstar Anna Scott when she enters his shop. Minutes later, they collide in the street and his drink spills on her clothes. Will offers his house nearby for Anna to change. Before leaving, she impulsively kisses him and then asks him not to mention what just occurred.Days later, Spike belatedly relays a message from Anna. Will calls and she invites him to"]      },
+                { "SourceType":"input", "Source":"input", "VeriguideRemarks":"input",  "Paragragh":["her at the Ritz Hotel. On arrival, Will is mistaken for a journalist—in a panic he claims he works for Horse & Hound— and is made to interview not only Anna, but the entire cast of her of new sci-fi film, which he knows nothing about. Anna calls him back in andWilliam Will Thacker owns an independent book store, The Travel Book Co. in Notting Hill. He is divorced and shares his house with an eccentric, care-free Welshman named Spike and has a small, tight knit group of friends that includes his sister, Honey Will encounters Hollywood superstar Anna Scott when she enters his shop. Minutes later, they collide in the street and his drink spills on her clothes. Will offers his house nearby for Anna to change. Before leaving, she impulsively kisses him and then asks him not to mention what just occurred.Days later, Spike belatedly relays a message from Anna. Will calls and she invites him to visit her at the Ritz Hotel. On arrival, Will is mistaken for a journalist—in a panic he claims he works for Horse & Hound— and is made to interview not only Anna, but the entire cast of her of new sci-fi film, which he knows nothing about. Anna calls him back in and says she has cleared her evening. Will is exhilarated, before remembering that he is expected at his sister Honey's birthday party; Anna surprises him by offering to be his date.At the house of Will's friends Max and Bella, Anna fits in perfectly as they all share stories. Honey immediately recognizes Anna and declares them best friends instantly. She and Will share a private moment in a garden square as they walk back from the birthday party. The following evening they go to a restaurant, where Will overhears a group of patrons making crude remarks about Anna and attempts to defend her, before Anna steps in herself and humiliates them. As they walk back to her hotel, she invites Will up to her room. But when he arrives, she tells him he must leave immediately. Her American movie star boyfriend (who was never mentioned until now) appears and starts to bark orders at him, as well as make unflattering comments about Anna's weight. Anna is apologetic and embarrassed, while a stunned Will leaves. Over the next six months, Max and Bella set Will up on a series of blind dates, trying to help him move on; however Will, still hung up on Anna, does not connect with any of them.","p2","p3","p4"],  "SourceParagragh":["中文繁體段落","sp2","sp3","sp4"]      },
+                { "SourceType":"input", "Source":"input", "VeriguideRemarks":"input",  "Paragragh":["set Will up on a series of blind dates, trying to help him move on; however Will, still hung up on Anna, does not connect with anyset Will up on a series of blind dates, trying to help him move on; however Will, still hung up on Anna, does not connect with anyp1an eccentric, care-free Welshman named Spike and has a small, tight knit group of friends that includes his sister, Honey Will encounters Hollywood superstar Anna Scott when she enters his","p2p1an eccentric, care-free Welshman named Spike and has a small, tight knit group of friends that includes his sister, Honey Will encounters Hollywood superstar Anna Scott when she enters hisella set Will up on a series of blind dates, trying to help him move on; however Will, still hung up on Anna, does not connect with any","ying to help him move on; however Will, still hung up on Anna, does not connect with any of them Honey Will encounters Hollywood superstar Anna Scott when she enters his"],  "SourceParagragh":["sp1","sp2","sp3"]      }
+
+           ],
+   "reviewer":"Professor Chris Wong",
+   "confirmer":"Professor May Cheung",
+   "endorsor":"Professor 陈大文"
+   
+   
+
+}
