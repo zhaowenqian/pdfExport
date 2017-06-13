@@ -64,13 +64,13 @@ import java.io.IOException;
  * @author zwq19961228
  */
 public class CreateNewPdf {
-   public static final String DEST ="results/chapter01/result1.pdf";
+   public static final String DEST ="results/chapter01/result4.pdf";
    
    public static void main(String arg[]) throws IOException{
-       
-       File file =new File(DEST);
-       new CreateNewPdf().createPdf(DEST);
        int returnValue;
+       File file =new File(DEST);
+       returnValue=new CreateNewPdf().createPdf(DEST);
+      System.out.println(returnValue+" is the return value");
        
    }
    public int createPdf(String dest) throws IOException {
@@ -114,6 +114,7 @@ public class CreateNewPdf {
            if(info.SubmissionNumInfo[i].name.equals("Assignment No.:")&&info.SubmissionNumInfo[i].info<=0){
                throw new AssignmentNumberException();
            }
+          
            
            
         }
