@@ -20,7 +20,7 @@ modifications have been made
 9.paragraph or source paragraphs' length has too be shorter than 5000
 10.other format problems will be taken as "wrong input format"
 */
-package com.mycompany.helloworld;
+package org.veriguide.utility.report;
 
 import com.itextpdf.io.font.PdfEncodings;
 import com.itextpdf.kernel.pdf.canvas.PdfCanvas;
