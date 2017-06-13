@@ -64,7 +64,7 @@ import java.io.IOException;
  * @author zwq19961228
  */
 public class CreateNewPdf {
-   public static final String DEST ="results/chapter01/result4.pdf";
+   public static final String DEST ="results/result1.pdf";
    
    public static void main(String arg[]) throws IOException{
        int returnValue;
@@ -95,9 +95,9 @@ public class CreateNewPdf {
         Json json=new Json();
         
         info info=json.transform();
-        System.out.println(info.Comparisions[0].Paragragh[0].length()+"is the length");
+        //System.out.println(info.Comparisions[0].Paragragh[0].length()+"is the length");
         int i,j;
-        int year;
+       
         boolean missingStudentID=true;
         boolean missingCourseCode=true;
         boolean missingCaseID=true;

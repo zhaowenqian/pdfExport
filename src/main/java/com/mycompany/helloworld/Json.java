@@ -66,7 +66,7 @@ class info {
 class Json {
   
    public info transform()throws IOException{
-      try(Reader reader = new InputStreamReader(Json.class.getResourceAsStream("/example6.json"), "UTF-8")){
+      try(Reader reader = new InputStreamReader(Json.class.getResourceAsStream("/example1.json"), "UTF-8")){
             Gson gson = new GsonBuilder().create();
             info p = gson.fromJson(reader, info.class);
            return p;
