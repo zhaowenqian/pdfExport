@@ -199,7 +199,7 @@ public class CreateNewPdf {
         //paragraph comparisions
         document.add(new Paragraph("II.  Paragragh Comparisions").setFont(bold).setFontSize(9));
         document.add(new Paragraph(""));
-        paragraphComparision(document , info,pdf);
+        paragraphComparision(document , info);
         
         document.add(new Paragraph(""));
         //Teacher's Feedback
@@ -306,7 +306,7 @@ public class CreateNewPdf {
        
    }
    
-   public void paragraphComparision(Document document , info info,PdfDocument pdf)throws IOException{
+   public void paragraphComparision(Document document , info info)throws IOException{
         int comparisionNo=info.comparisionNo();
         PdfFont chinese = PdfFontFactory.createFont("src/fonts/NotoSansCJKtc-Regular.otf",PdfEncodings.IDENTITY_H, false);
        
